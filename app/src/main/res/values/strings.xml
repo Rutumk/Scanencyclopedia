@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scanencyclopedia</string>
+    <string name="load_image">Load Image</string>
+    <string name="detect">Detect</string>
+    <string name="textview">TextView</string>
+    <string name="scancyclopedia">SCANCYCLOPEDIA</string>
+</resources>
